@@ -1,0 +1,17 @@
+C:\Users\flavi\source\repos\Esercizio note\Esercizio note\bin\Debug\net7.0\Esercizio note.exe
+C:\Users\flavi\source\repos\Esercizio note\Esercizio note\bin\Debug\net7.0\Esercizio note.deps.json
+C:\Users\flavi\source\repos\Esercizio note\Esercizio note\bin\Debug\net7.0\Esercizio note.runtimeconfig.json
+C:\Users\flavi\source\repos\Esercizio note\Esercizio note\bin\Debug\net7.0\Esercizio note.dll
+C:\Users\flavi\source\repos\Esercizio note\Esercizio note\bin\Debug\net7.0\Esercizio note.pdb
+C:\Users\flavi\source\repos\Esercizio note\Esercizio note\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\flavi\source\repos\Esercizio note\Esercizio note\obj\Debug\net7.0\Esercizio note.csproj.AssemblyReference.cache
+C:\Users\flavi\source\repos\Esercizio note\Esercizio note\obj\Debug\net7.0\Esercizio note.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\source\repos\Esercizio note\Esercizio note\obj\Debug\net7.0\Esercizio note.AssemblyInfoInputs.cache
+C:\Users\flavi\source\repos\Esercizio note\Esercizio note\obj\Debug\net7.0\Esercizio note.AssemblyInfo.cs
+C:\Users\flavi\source\repos\Esercizio note\Esercizio note\obj\Debug\net7.0\Esercizio note.csproj.CoreCompileInputs.cache
+C:\Users\flavi\source\repos\Esercizio note\Esercizio note\obj\Debug\net7.0\Esercizio note.csproj.CopyComplete
+C:\Users\flavi\source\repos\Esercizio note\Esercizio note\obj\Debug\net7.0\Esercizio note.dll
+C:\Users\flavi\source\repos\Esercizio note\Esercizio note\obj\Debug\net7.0\refint\Esercizio note.dll
+C:\Users\flavi\source\repos\Esercizio note\Esercizio note\obj\Debug\net7.0\Esercizio note.pdb
+C:\Users\flavi\source\repos\Esercizio note\Esercizio note\obj\Debug\net7.0\Esercizio note.genruntimeconfig.cache
+C:\Users\flavi\source\repos\Esercizio note\Esercizio note\obj\Debug\net7.0\ref\Esercizio note.dll
